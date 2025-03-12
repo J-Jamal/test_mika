@@ -1,0 +1,5 @@
+{
+    "phone": "#field-phone",
+    "password": "#field-password",
+    "Loginerror": ".px-7 > .flex-col > .text-body-2'"
+}

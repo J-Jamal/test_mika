@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "no_telp": "85155148918",
+      "password": "Berobat2025"
+    },
+    "invalidUser": {
+      "no_telp": "999999999999",
+      "password": "Berobat2025"
+    }
+}
